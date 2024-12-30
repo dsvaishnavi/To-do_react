@@ -1,7 +1,7 @@
 export const Input=()=>{
     return(
         <>
-        <div>
+        <div >
             <div>
                 <input type="text" />
             </div>

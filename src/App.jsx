@@ -2,9 +2,8 @@ import { Input } from "./components/Input";
 
 const App = () => {
   return(
-
-    <>
-  <h1>hello user</h1>;
+  <>
+  <h1>hello user</h1>
   <Input></Input>
   </>  
   )
